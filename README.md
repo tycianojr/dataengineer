@@ -1,2 +1,2 @@
-# Projeto final do curso de Engenharia de Dados pela SoulCode Academy. 
+# Neste repositorio estao todos os projetos que desenvolvi durante o curso de Engenharia de Dados.
 
